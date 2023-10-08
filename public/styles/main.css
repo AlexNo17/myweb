@@ -1,0 +1,22 @@
+.text-bg-sea-green {
+    background-color: #618264;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #4c96af, #618264, #B0D9B1);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.text-white {
+    font-size: x-large;
+    font-family: 'Indie Flower', cursive;
+}
+
+.font-indie-flower {
+    font-family: 'Indie Flower', cursive;
+}
+
+.background-green-light {
+    background-color: #D0E7D2;
+}
